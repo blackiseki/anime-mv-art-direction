@@ -1,0 +1,15 @@
+{
+  "title": "透明 — color script",
+  "bpm": 128,
+  "sections": [
+    {"name":"Intro","start":0,"end":14,"colors":["#E8EAEC","#C9D2DA","#8FA3B6","#E0A878"],"note":"高调冷灰，唯一暖点","hold":true},
+    {"name":"Aメロ","start":14,"end":42,"colors":["#D6DEE6","#A8BACB","#6B819B","#D99566"],"note":"稳定，低饱和"},
+    {"name":"Bメロ","start":42,"end":56,"colors":["#8FA6BE","#5F7896","#3C4E68","#C97B4A"],"note":"开始偏蓝","turn":true},
+    {"name":"サビ1","start":56,"end":84,"colors":["#2C3E5C","#4A6A8C","#8FA9C4","#FF7A45","#FFD6A5"],"note":"对比拉满"},
+    {"name":"間奏","start":84,"end":98,"colors":["#111111","#F2F2F2","#FF7A45"],"note":"跳出色板，纯图形","hold":true},
+    {"name":"2番","start":98,"end":126,"colors":["#3A4A60","#6E849E","#2A3442","#D9683C"],"note":"加雨，明度更低"},
+    {"name":"Cメロ","start":126,"end":142,"colors":["#B9C2CB","#8E99A5","#5E6873"],"note":"抽色，近单色","hold":true},
+    {"name":"ラスサビ","start":142,"end":176,"colors":["#1E2C44","#3C5A7E","#7FA0C0","#FF8F52","#FFF0D0"],"note":"着火版"},
+    {"name":"Outro","start":176,"end":196,"colors":["#0A0E16","#12324A","#3FE0D0"],"note":"回到冷色，暖点已熄灭"}
+  ]
+}

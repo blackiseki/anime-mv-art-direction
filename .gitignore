@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 脚本默认输出目录（接触表等临时产物）
+review/
+out/
+
+# 构建产物
+*.zip
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 本地分析结果
+probe.json
+lint.json
+*_dump.json

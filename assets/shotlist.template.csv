@@ -1,0 +1,12 @@
+﻿no,start,end,dur,section,lyric,shot,angle,subject,move,trans,beat,fx,hold,asset,note
+001,0:00.00,0:01.88,1.88,Intro,-,ELS,low/w,她站在天台上，风把外套吹向一侧,dolly-in,cut,L1,-,N,新画,最强帧放第 0 秒
+002,0:01.88,0:03.75,1.87,Intro,-,ECU,eye/std,她的眼睛缓慢睁开，睫毛上有一点光,fix,dissolve,L1,grain,Y,新画,hold 1
+003,0:03.75,0:05.63,1.88,Aメロ,ひび割れた空,MS,eye/std,她抬头看向裂开的天空,fix,cut,L1,-,N,新画,text:behind
+004,0:05.63,0:07.50,1.87,Aメロ,ほどけた糸,FS,high/t,她一个人走过无人的走廊,pan,cut,L1,-,N,复用,建立空间
+005,0:07.50,0:09.38,1.88,Aメロ,錆びた扉の,MS,eye/std,她把手放在锈蚀的门上，光从门缝漏出,tracking,cut,L2,boil,N,复用,text:side
+006,0:09.38,0:11.25,1.87,サビ1,砕けた心を,MS,low/std,她张开双臂，光从背后炸开,fix,cut,L1,bloom,N,新画,招牌瞬间
+007,0:11.25,0:13.13,1.88,サビ1,拾い上げて,CU,eye/std,她蹲下捡起发光的东西，手指在抖,fix,cut,L1,glow,N,新画,
+008,0:13.13,0:14.06,0.93,サビ1,-,MS,eye/std,碎片在空气中缓慢旋转,orbit,cut,L2,-,N,AI,单帧转视差
+009,0:14.06,0:15.00,0.94,サビ1,-,ELS,high/w,整个世界被光填满，她成为剪影,dolly-out,cut,L1,flash,Y,复用,hold 2，最后的爆发
+010,0:15.00,0:16.88,1.88,Outro,会いたい,MS,eye/std,她一个人站在原地，光暗下去,fix,cut,L1,-,N,复用,
+011,0:16.88,0:18.75,1.87,Outro,-,ELS,low/w,天台空了，只剩飘着的一件外套,fix,cut,L1,-,Y,复用,hold 3，bookend 首帧
