@@ -1,5 +1,7 @@
 # anime-mv-art-direction
 
+**中文** | [English](README.en.md)
+
 二次元动画 MV / PV 的**视觉企划与美术指导** skill —— 让影像在动手之前就已经成立。
 
 面向静止画 MAD、AMV、Vocaloid / ボカロ PV、V 家手书、文字 PV（リリックビデオ）、剧情向剪辑、原创曲 MV、歌ってみた 封面影像。
@@ -117,7 +119,8 @@ python scripts/shot_sheets.py mv.mp4 --probe probe.json -o review/
 
 ```
 SKILL.md                 主控：定位、工作流、阶段闸门
-README.md
+README.md                本文件（中文）
+README.en.md             英文说明书
 references/
   00-setup.md            依赖矩阵、安装、常见故障
   00-method.md           方法论：三次翻译、判据、矛盾检测
