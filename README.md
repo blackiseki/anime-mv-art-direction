@@ -1,18 +1,13 @@
 # anime-mv-art-direction
 
-**中文** ｜ **English** ｜ **日本語**
-
 一份关于「让影像在动手之前就已经成立」的美术指导方法 —— 适用于静止画 MAD、AMV、Vocaloid PV、手书、文字 PV、剧情向剪辑。<br>
 An art-direction method for anime music videos — make the film hold together before you touch the timeline.<br>
 アニメ MV / PV のための映像設計・アートディレクション — 手を動かす前に、映像が成立している状態をつくる。
 
-**切换语言 / Switch language / 言語を切り替え：** [中文](#zh) · [English](#en) · [日本語](#ja)
+> 点开对应语言阅读，其余收起 · Open the language you need, the rest stay collapsed · 使いたい言語だけ開いてください
 
----
-
-<a name="zh"></a>
-
-## 中文
+<details open>
+<summary><b>中文</b></summary>
 
 二次元动画 MV / PV 的**视觉企划与美术指导** skill —— 让影像在动手之前就已经成立。
 
@@ -187,11 +182,10 @@ scripts/                 见上表
 
 代码与文档采用 [MIT License](LICENSE)。这是对**本 skill 本身**的授权，不涉及你用它所创作的 MV、以及 MV 里引用的音乐、字体、图像素材。
 
----
+</details>
 
-<a name="en"></a>
-
-## English
+<details>
+<summary><b>English</b></summary>
 
 **Visual planning and art direction for anime MV / PV** — the film should already hold together before you touch the timeline.
 
@@ -366,11 +360,10 @@ The same idea shapes `check_env.py`: it doesn't just list what's missing, it rep
 
 Code and documentation are under the [MIT License](LICENSE). That covers **this skill only** — not the MVs you make with it, and not the music, fonts or images you put into them.
 
----
+</details>
 
-<a name="ja"></a>
-
-## 日本語
+<details>
+<summary><b>日本語</b></summary>
 
 アニメ MV / PV の**映像設計・アートディレクション**のための skill —— 手を動かす前に、映像がすでに成立している状態をつくる。
 
@@ -546,3 +539,5 @@ scripts/                 上の表を参照
 ### ライセンス
 
 コードとドキュメントは [MIT License](LICENSE) です。これは**この skill 自体**に対する許諾であり、あなたが本 skill で制作した MV、および MV 内で使用した音楽・フォント・画像素材には及びません。
+
+</details>
